@@ -116,7 +116,7 @@ function App() {
               enableBlur={true}
               baseRotation={5}
             >
-              My Cantikkkkkk 🩷🩷
+              My Cantik 🩷🩷
             </ScrollReveal>
             <div style={{ width: 208, height: 208 }}>
               <Stack
